@@ -5,7 +5,18 @@ Codes for our paper to 2025ICASSP: Two Heads Are Better Than One: Averaging alon
 
 <img src="results/loss_surface/919_04.png" width="250"><img src="results/loss_surface/919_05.png" width="250"><img src="results/loss_surface/919_06.png" width="250">  
 
-<img src="results/loss_surface/919_07.png" width="250"><img src="results/loss_surface/919_08.png" width="250"><img src="results/loss_surface/919_09.png" width="250">  
+<img src="results/loss_surface/919_07.png" width="250"><img src="results/loss_surface/919_08.png" width="250"><img src="results/loss_surface/919_09.png" width="250">
+
+In the supplementary file 'supp.pdf', we provide more detailed results:
+
+- Ablation study on the decaying factor \gamma;
+- Visualization of FFT and AaF in a 2D subspace;
+- Attack performance on Swin;
+- Attack performance in the most difficult-target scenario; 
+- Visual comparison. 
+
+## Usage
+Please run main_Avg_FT.py to see the targeted transferability improvement by the propose AaF method.
 
 
 
