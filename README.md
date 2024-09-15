@@ -9,7 +9,7 @@ Codes for our paper to 2025ICASSP: Two Heads Are Better Than One: Averaging alon
 
 In the supplementary file 'supp.pdf', we provide more detailed results:
 
-- Ablation study on the decaying factor \u03B3;
+- Ablation study on the decaying factor gamma;
 - Visualization of FFT and AaF in a 2D subspace;
 - Attack performance on Swin;
 - Attack performance in the most difficult-target scenario; 
