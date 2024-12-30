@@ -11,9 +11,10 @@ Our key assumption is that an AE located at the center of high-confidence (w.r.t
 
 In the supplementary file 'supp.pdf', we provide more detailed results:
 
+- Pseudo-code of the proposed method;
 - Ablation study on the decaying factor gamma;
 - Visualization of FFT and AaF in a 2D subspace;
-- Attack performance on Swin;
+- Attack performance against four transformer-based models;
 - Attack performance in the most difficult-target scenario; 
 - Visual comparison. 
 
