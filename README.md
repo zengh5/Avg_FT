@@ -1,5 +1,5 @@
 # Avg_FT
-Codes for our paper to 2025ICASSP: Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability.
+Codes for our paper to 2025ICASSP: Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability. [arXiv](https://arxiv.org/abs/2412.20807)
 
 Our key assumption is that an AE located at the center of high-confidence (w.r.t. y<sub>t</sub>) region may transfer better across unknown models than that located near the boundary of the high-confidence region. As shown in below, without cherry-picking, the proposed AaF steers AE towards a more central region than FFT, let alone the baseline attack (I'). The AEs are crafted with a Resnet50 (source model), while the planes are calculated on an ensemble of target models. 
 
